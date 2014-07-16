@@ -1,0 +1,112 @@
+Activity: g2-1
+Location: g2-1
+All_selected_sensors: light_bedroom|on|0.9993997599039616 light_bathroom|off|0.9921968787515006 current_PC_bedroom|on|0.7588482303539292 current_fan_bedroom|on|0.9988002399520096 current_speaker_bedroom|on|0.9988002399520096 camera_bedroom|on|0.9993997599039616 
+Explicit :current_PC_bedroom|explicit|on|0.76,  current_fan_bedroom|explicit|on|1.0,  current_speaker_bedroom|explicit|on|1.0,  light_bedroom|explicit|on|1.0,  light_bathroom|explicit|off|0.99,  
+Implicit :light_hallway|implicit|off|0.93,  current_vacuumCleaner_livingroom|implicit|off|0.94,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.95,  current_fanHeater_livingroom|implicit|off|0.99,  light_livingroom|implicit|off|0.89,  current_monitor_bedroom|implicit|on|0.76,  current_exhaustFan_bathroom|implicit|off|0.98,  current_Dishwasher_kitchen|implicit|off|0.97,  light_kitchen|implicit|off|0.99,  current_washMachine_balcony|implicit|off|0.96,  light_balcony|implicit|off|0.97,  
+
+
+Activity: g2-2
+Location: g2-2
+All_selected_sensors: light_balcony|off|0.7307915337779066 current_TV_livingroom|on|0.9997101029134657 camera_livingroom|on|0.9998550304436068 temperature_bathroom|low|0.9279501304726008 
+Explicit :current_TV_livingroom|explicit|on|1.0,  light_balcony|explicit|off|0.73,  
+Implicit :light_hallway|implicit|off|0.94,  current_vacuumCleaner_livingroom|implicit|off|0.82,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.89,  current_fanHeater_livingroom|implicit|off|0.94,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|0.85,  current_fan_bedroom|implicit|off|0.71,  current_speaker_bedroom|implicit|off|0.93,  light_bedroom|implicit|off|0.87,  current_exhaustFan_bathroom|implicit|off|0.94,  light_bathroom|implicit|off|0.84,  current_Dishwasher_kitchen|implicit|off|0.97,  light_kitchen|implicit|off|0.8,  current_washMachine_balcony|implicit|off|0.81,  
+
+
+Activity: g2-3
+Location: g2-3
+All_selected_sensors: PIR_livingroom|on|0.9994640943193998 current_kinect_livingroom|on|0.9989287627209427 current_fan_livingroom|on|0.9989287627209427 current_fan_bedroom|off|0.9871451526513123 accelerometer|high|0.9989287627209427 
+Explicit :current_kinect_livingroom|explicit|on|1.0,  current_fan_livingroom|explicit|on|1.0,  current_fan_bedroom|explicit|off|0.99,  
+Implicit :light_hallway|implicit|off|0.99,  current_TV_livingroom|implicit|on|1.0,  current_vacuumCleaner_livingroom|implicit|off|0.93,  current_AC_livingroom|implicit|on|1.0,  current_fanHeater_livingroom|implicit|off|0.99,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|0.99,  light_bedroom|implicit|off|0.96,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_Dishwasher_kitchen|implicit|off|0.96,  light_kitchen|implicit|off|0.99,  current_washMachine_balcony|implicit|off|0.99,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g2-4
+Location: g2-4
+All_selected_sensors: PIR_bathroom|off|0.9985294117647059 audio_livingroom|on|0.9985294117647059 current_monitor_bedroom|standby|0.9970631424375918 camera_livingroom|on|0.9985294117647059 
+Explicit :current_monitor_bedroom|explicit|standby|1.0,  
+Implicit :light_hallway|implicit|off|0.96,  current_vacuumCleaner_livingroom|implicit|off|0.95,  current_AC_livingroom|implicit|on|1.0,  current_fanHeater_livingroom|implicit|off|0.98,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|0.98,  current_fan_bedroom|implicit|off|0.98,  current_speaker_bedroom|implicit|off|0.98,  light_bedroom|implicit|off|0.98,  current_exhaustFan_bathroom|implicit|off|0.98,  light_bathroom|implicit|off|0.98,  current_Dishwasher_kitchen|implicit|off|0.96,  light_kitchen|implicit|off|0.98,  current_washMachine_balcony|implicit|off|1.0,  light_balcony|implicit|off|0.96,  
+
+
+Activity: g2-5
+Location: g2-5
+All_selected_sensors: light_hallway|off|0.9968944099378882 light_balcony|off|0.9968944099378882 current_TV_livingroom|on|0.9938080495356038 camera_livingroom|on|0.9968944099378882 
+Explicit :light_hallway|explicit|off|1.0,  current_TV_livingroom|explicit|on|0.99,  light_balcony|explicit|off|1.0,  
+Implicit :current_vacuumCleaner_livingroom|implicit|off|0.92,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.88,  current_fanHeater_livingroom|implicit|off|0.96,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_fan_bedroom|implicit|off|0.82,  current_speaker_bedroom|implicit|off|0.75,  light_bedroom|implicit|off|0.75,  current_exhaustFan_bathroom|implicit|off|0.91,  light_bathroom|implicit|off|0.92,  current_Dishwasher_kitchen|implicit|off|0.96,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|0.96,  
+
+
+Activity: g2-6
+Location: g2-6
+All_selected_sensors: PIR_hallway|on|0.9722222222222222 light_hallway|on|0.9722222222222222 current_PC_bedroom|standby|0.9459459459459459 
+Explicit :light_hallway|explicit|on|0.97,  current_PC_bedroom|explicit|standby|0.95,  
+Implicit :current_vacuumCleaner_livingroom|implicit|off|0.76,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.88,  current_fanHeater_livingroom|implicit|off|0.88,  light_livingroom|implicit|off|0.88,  current_lamp_bedroom|implicit|off|0.94,  current_fan_bedroom|implicit|off|0.82,  current_speaker_bedroom|implicit|off|0.94,  light_bedroom|implicit|off|0.94,  current_exhaustFan_bathroom|implicit|off|0.82,  light_bathroom|implicit|off|1.0,  current_Dishwasher_kitchen|implicit|off|0.76,  light_kitchen|implicit|off|0.94,  current_washMachine_balcony|implicit|off|0.94,  light_balcony|implicit|off|0.88,  
+
+
+Activity: g2-7
+Location: g2-7
+All_selected_sensors: PIR_hallway|on|0.9999216546537135 light_balcony|off|0.9999216546537135 current_fanHeater_livingroom|off|0.6642381511946729 current_lamp_bedroom|off|0.6303956130043087 current_Dishwasher_kitchen|off|0.999843321582452 camera_livingroom|off|0.9999216546537135 
+Explicit :current_fanHeater_livingroom|explicit|off|0.66,  current_lamp_bedroom|explicit|off|0.63,  current_Dishwasher_kitchen|explicit|off|1.0,  light_balcony|explicit|off|1.0,  
+Implicit :light_hallway|implicit|off|0.95,  current_vacuumCleaner_livingroom|implicit|off|0.78,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.95,  light_livingroom|implicit|off|0.94,  current_speaker_bedroom|implicit|off|0.81,  light_bedroom|implicit|off|0.95,  light_bathroom|implicit|off|0.85,  current_washMachine_balcony|implicit|off|0.81,  
+
+
+Activity: g2-8
+Location: g2-8
+All_selected_sensors: current_fanHeater_livingroom|off|0.8011190733287523 current_Dishwasher_kitchen|off|0.9998036713458329 current_washMachine_balcony|off|0.9998036713458329 camera_bedroom|on|0.9999018260357353 accelerometer|low|0.9998036713458329 
+Explicit :current_fanHeater_livingroom|explicit|off|0.8,  current_Dishwasher_kitchen|explicit|off|1.0,  current_washMachine_balcony|explicit|off|1.0,  
+Implicit :light_hallway|implicit|off|0.92,  current_vacuumCleaner_livingroom|implicit|off|0.9,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.81,  light_livingroom|implicit|off|0.81,  current_lamp_bedroom|implicit|off|0.9,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|0.91,  current_exhaustFan_bathroom|implicit|off|0.91,  light_kitchen|implicit|off|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g2-9
+Location: g2-9
+All_selected_sensors: PIR_bathroom|on|0.995049504950495 light_hallway|off|0.995049504950495 audio_bathroom|little|0.9901477832512315 current_exhaustFan_bathroom|on|0.9901477832512315 current_fridge_kitchen|standby|0.9901477832512315 
+Explicit :light_hallway|explicit|off|1.0,  current_exhaustFan_bathroom|explicit|on|0.99,  current_fridge_kitchen|explicit|standby|0.99,  
+Implicit :current_vacuumCleaner_livingroom|implicit|off|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_bathroom|implicit|on|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g2-10
+Location: g2-10
+All_selected_sensors: PIR_balcony|off|0.9960629921259843 audio_bathroom|little|0.9921568627450981 
+Explicit :
+Implicit :light_hallway|implicit|off|0.96,  current_vacuumCleaner_livingroom|implicit|off|0.97,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.93,  current_fanHeater_livingroom|implicit|off|0.92,  light_livingroom|implicit|off|0.94,  current_lamp_bedroom|implicit|off|0.98,  current_fan_bedroom|implicit|off|0.97,  current_speaker_bedroom|implicit|off|0.98,  light_bedroom|implicit|off|0.96,  light_bathroom|implicit|on|1.0,  current_Dishwasher_kitchen|implicit|off|0.97,  light_kitchen|implicit|off|0.81,  current_washMachine_balcony|implicit|off|1.0,  light_balcony|implicit|off|0.98,  
+
+
+Activity: g2-11
+Location: g2-11
+All_selected_sensors: PIR_kitchen|on|0.9994131455399061 audio_kitchen|loud|0.9988269794721407 current_vacuumCleaner_livingroom|off|0.9859237536656892 current_PC_bedroom|standby|0.975366568914956 current_fridge_kitchen|on|0.9988269794721407 current_riceCooker_kitchen|on|0.9988269794721407 current_microwave_kitchen|on|0.9988269794721407 temperature_kitchen|high|0.9994131455399061 accelerometer|medium|0.9988269794721407 
+Explicit :current_vacuumCleaner_livingroom|explicit|off|0.99,  current_PC_bedroom|explicit|standby|0.98,  current_fridge_kitchen|explicit|on|1.0,  current_riceCooker_kitchen|explicit|on|1.0,  current_microwave_kitchen|explicit|on|1.0,  
+Implicit :light_hallway|implicit|off|0.98,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.98,  current_fanHeater_livingroom|implicit|off|0.98,  light_livingroom|implicit|off|0.96,  current_lamp_bedroom|implicit|off|0.98,  current_fan_bedroom|implicit|off|0.97,  current_speaker_bedroom|implicit|off|0.98,  light_bedroom|implicit|off|0.98,  current_exhaustFan_bathroom|implicit|off|0.98,  light_bathroom|implicit|off|0.96,  current_Dishwasher_kitchen|implicit|off|0.8,  light_kitchen|implicit|on|1.0,  current_washMachine_balcony|implicit|off|0.98,  light_balcony|implicit|off|0.97,  
+
+
+Activity: g2-12
+Location: g2-12
+All_selected_sensors: PIR_livingroom|on|0.9957983193277311 audio_livingroom|off|0.9957983193277311 current_vacuumCleaner_livingroom|on|0.9916317991631799 
+Explicit :current_vacuumCleaner_livingroom|explicit|on|0.99,  
+Implicit :light_hallway|implicit|off|0.85,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.83,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_fan_bedroom|implicit|off|0.85,  current_speaker_bedroom|implicit|off|0.85,  light_bedroom|implicit|off|0.85,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_Dishwasher_kitchen|implicit|off|0.85,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g2-13
+Location: g2-13
+All_selected_sensors: PIR_kitchen|on|0.997716894977169 current_Dishwasher_kitchen|on|0.9954441913439636 
+Explicit :current_Dishwasher_kitchen|explicit|on|1.0,  
+Implicit :light_hallway|implicit|off|0.97,  current_vacuumCleaner_livingroom|implicit|off|0.92,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.97,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|0.97,  current_lamp_bedroom|implicit|off|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|0.97,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|0.94,  current_fridge_kitchen|implicit|on|0.73,  current_riceCooker_kitchen|implicit|on|0.73,  current_microwave_kitchen|implicit|on|0.76,  light_kitchen|implicit|on|1.0,  current_washMachine_balcony|implicit|off|0.97,  light_balcony|implicit|off|0.97,  
+
+
+Activity: g2-14
+Location: g2-14
+All_selected_sensors: light_livingroom|off|0.9989154013015185 light_bedroom|on|0.9989154013015185 light_bathroom|off|0.9989154013015185 current_vacuumCleaner_livingroom|off|0.9978331527627302 current_lamp_bedroom|on|0.9978331527627302 current_riceCooker_kitchen|standby|0.9978331527627302 current_washMachine_balcony|off|0.9978331527627302 
+Explicit :current_vacuumCleaner_livingroom|explicit|off|1.0,  light_livingroom|explicit|off|1.0,  current_lamp_bedroom|explicit|on|1.0,  light_bedroom|explicit|on|1.0,  light_bathroom|explicit|off|1.0,  current_riceCooker_kitchen|explicit|standby|1.0,  current_washMachine_balcony|explicit|off|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  current_fan_bedroom|implicit|on|1.0,  current_speaker_bedroom|implicit|on|0.78,  current_exhaustFan_bathroom|implicit|off|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g2-15
+Location: g2-15
+All_selected_sensors: audio_bathroom|loud|0.9944598337950139 current_Dishwasher_kitchen|off|0.8448753462603878 current_waterHeater_balcony|on|0.9944598337950139 temperature_bathroom|high|0.9972222222222222 humidity_bathroom|high|0.9972222222222222 
+Explicit :current_Dishwasher_kitchen|explicit|off|0.84,  current_waterHeater_balcony|explicit|on|0.99,  
+Implicit :light_hallway|implicit|off|0.93,  current_vacuumCleaner_livingroom|implicit|off|0.76,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.88,  current_fanHeater_livingroom|implicit|off|0.92,  light_livingroom|implicit|off|0.76,  current_lamp_bedroom|implicit|off|0.88,  current_fan_bedroom|implicit|off|0.88,  current_speaker_bedroom|implicit|off|0.82,  light_bedroom|implicit|off|0.85,  current_exhaustFan_bathroom|implicit|off|0.98,  light_bathroom|implicit|on|1.0,  light_kitchen|implicit|off|0.9,  current_washMachine_balcony|implicit|off|0.9,  light_balcony|implicit|off|0.87,  
+
+
+Activity: g2-16
+Location: g2-16
+All_selected_sensors: PIR_balcony|on|0.9972067039106145 light_livingroom|off|0.9972067039106145 light_balcony|on|0.9972067039106145 current_vacuumCleaner_livingroom|off|0.9944289693593314 current_washMachine_balcony|on|0.9944289693593314 camera_balcony|on|0.9972067039106145 
+Explicit :current_vacuumCleaner_livingroom|explicit|off|0.99,  light_livingroom|explicit|off|1.0,  current_washMachine_balcony|explicit|on|0.99,  light_balcony|explicit|on|1.0,  
+Implicit :light_hallway|implicit|off|0.93,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.92,  current_fanHeater_livingroom|implicit|off|0.98,  current_lamp_bedroom|implicit|off|0.92,  current_fan_bedroom|implicit|off|0.92,  current_speaker_bedroom|implicit|off|0.92,  light_bedroom|implicit|off|0.92,  current_exhaustFan_bathroom|implicit|off|0.98,  light_bathroom|implicit|off|0.97,  current_Dishwasher_kitchen|implicit|off|0.98,  light_kitchen|implicit|off|1.0,  
+
+

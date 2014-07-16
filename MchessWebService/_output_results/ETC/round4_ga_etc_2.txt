@@ -1,0 +1,63 @@
+Activity: g2-1
+Location: g2-1
+All_selected_sensors: current_TV_livingroom|on|0.9877541023757042 current_lamp_livingroom|off|0.9759980406563801 camera_livingroom|on|0.9997550220480157 
+Explicit :current_TV_livingroom|explicit|on|0.99,  current_lamp_livingroom|explicit|off|0.98,  
+Implicit :light_hallway|implicit|on|0.89,  light_livingroom|implicit|on|0.99,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.89,  light_bedroom|implicit|off|0.88,  
+
+
+Activity: g2-2
+Location: g2-2
+All_selected_sensors: audio_livingroom|on|0.8879310344827587 current_fan_livingroom|on|0.9829059829059829 camera_bedroom|off|0.9913793103448276 
+Explicit :current_fan_livingroom|explicit|on|0.98,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|on|1.0,  light_livingroom|implicit|on|1.0,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  
+
+
+Activity: g2-3
+Location: g2-3
+All_selected_sensors: light_livingroom|on|0.9939024390243902 light_bedroom|on|0.6158536585365854 switch_door_hallway|off|0.9939024390243902 current_lamp_livingroom|on|0.9878787878787879 current_AC_bedroom|off|0.6121212121212121 current_AC_livingroom|standby|0.9515151515151515 
+Explicit :current_AC_livingroom|explicit|standby|0.95,  current_lamp_livingroom|explicit|on|0.99,  light_livingroom|explicit|on|0.99,  current_AC_bedroom|explicit|off|0.61,  light_bedroom|explicit|on|0.62,  
+Implicit :current_xbox_livingroom|implicit|off|0.96,  light_hallway|implicit|on|0.94,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.85,  
+
+
+Activity: g2-4
+Location: g2-4
+All_selected_sensors: light_bedroom|on|0.9955357142857143 current_fan_livingroom|standby|0.7777777777777778 current_PC_bedroom|on|0.9911111111111112 current_monitor_bedroom|on|0.9911111111111112 camera_bedroom|on|0.9955357142857143 
+Explicit :current_fan_livingroom|explicit|standby|0.78,  current_PC_bedroom|explicit|on|0.99,  current_monitor_bedroom|explicit|on|0.99,  light_bedroom|explicit|on|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|0.89,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|off|0.96,  light_livingroom|implicit|off|0.78,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.99,  
+
+
+Activity: g2-5
+Location: g2-5
+All_selected_sensors: switch_door_hallway|on|0.9921875 camera_bedroom|off|0.9921875 
+Explicit :
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|on|0.94,  light_livingroom|implicit|off|0.76,  light_kitchen|implicit|off|0.86,  current_lamp_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  
+
+
+Activity: g2-6
+Location: g2-6
+All_selected_sensors: light_hallway|off|0.9990757855822551 light_bedroom|off|0.9990757855822551 light_kitchen|off|0.9990757855822551 current_lamp_bedroom|off|0.9981532779316713 camera_livingroom|off|0.9990757855822551 camera_bedroom|off|0.9990757855822551 
+Explicit :light_hallway|explicit|off|1.0,  light_kitchen|explicit|off|1.0,  current_lamp_bedroom|explicit|off|1.0,  light_bedroom|explicit|off|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  
+
+
+Activity: g2-7
+Location: g2-7
+All_selected_sensors: light_kitchen|on|0.9936708860759493 current_microwave_kitchen|on|0.9245283018867925 camera_livingroom|off|0.9936708860759493 camera_kitchen|on|0.9936708860759493 
+Explicit :current_microwave_kitchen|explicit|on|0.92,  light_kitchen|explicit|on|0.99,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|off|0.88,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.85,  light_bedroom|implicit|off|1.0,  
+
+
+Activity: g2-8
+Location: g2-8
+All_selected_sensors: current_lamp_bedroom|on|0.9951338199513382 current_AC_bedroom|off|0.7615571776155717 
+Explicit :current_lamp_bedroom|explicit|on|1.0,  current_AC_bedroom|explicit|off|0.76,  
+Implicit :current_xbox_livingroom|implicit|off|0.75,  current_lamp_livingroom|implicit|off|0.76,  light_hallway|implicit|on|0.76,  light_livingroom|implicit|on|0.76,  light_kitchen|implicit|off|0.76,  light_bedroom|implicit|off|0.76,  
+
+
+Activity: g2-9
+Location: g2-9
+All_selected_sensors: light_hallway|off|0.9978165938864629 light_bedroom|off|0.9978165938864629 light_kitchen|off|0.9978165938864629 current_lamp_bedroom|on|0.9956427015250545 
+Explicit :light_hallway|explicit|off|1.0,  light_kitchen|explicit|off|1.0,  current_lamp_bedroom|explicit|on|1.0,  light_bedroom|explicit|off|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  
+
+

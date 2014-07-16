@@ -1,0 +1,8 @@
+Tmin = 10
+Tmax = 30
+forgetMean = 0.1
+forgetStdDev = 0.05
+power_origin = 71523.75
+power_policy = 54202.5
+difference = 17321.25
+Waste percentage = 24.2174802076234%

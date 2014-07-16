@@ -1,0 +1,28 @@
+Activity: g7-1
+Location: g7-1
+All_selected_sensors: light_livingroom|off|0.9998514998514999 light_hallway|off|0.9677754677754677 light_bedroom|off|0.9998514998514999 audio_livingroom|off|0.9998514998514999 current_lamp_bedroom|on|0.6469190794357832 current_PC_bedroom|standby|0.9997030438010394 current_TV_livingroom|standby|0.9997030438010394 camera_livingroom|off|0.9998514998514999 
+Explicit :current_TV_livingroom|explicit|standby|1.0,  light_hallway|explicit|off|0.97,  light_livingroom|explicit|off|1.0,  current_lamp_bedroom|explicit|on|0.65,  current_PC_bedroom|explicit|standby|1.0,  light_bedroom|explicit|off|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_kitchen|implicit|off|0.78,  
+
+
+Activity: g7-2
+Location: g7-2
+All_selected_sensors: light_hallway|on|0.9115862068965517 current_lamp_bedroom|off|0.9048407116259827 camera_livingroom|on|0.882896551724138 
+Explicit :light_hallway|explicit|on|0.91,  current_lamp_bedroom|explicit|off|0.9,  
+Implicit :current_xbox_livingroom|implicit|off|0.71,  current_lamp_livingroom|implicit|off|0.81,  light_livingroom|implicit|on|0.88,  light_kitchen|implicit|off|0.97,  light_bedroom|implicit|off|0.81,  
+
+
+Activity: g7-3
+Location: g7-3
+All_selected_sensors: light_bedroom|on|0.995575221238938 current_fan_livingroom|standby|0.7797356828193832 current_PC_bedroom|on|0.9911894273127754 current_monitor_bedroom|on|0.9911894273127754 camera_bedroom|on|0.995575221238938 
+Explicit :current_fan_livingroom|explicit|standby|0.78,  current_PC_bedroom|explicit|on|0.99,  current_monitor_bedroom|explicit|on|0.99,  light_bedroom|explicit|on|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|0.89,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|off|0.98,  light_livingroom|implicit|off|0.79,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.99,  
+
+
+Activity: g7-4
+Location: g7-4
+All_selected_sensors: current_lamp_bedroom|on|0.9954022988505747 current_AC_bedroom|off|0.774712643678161 
+Explicit :current_lamp_bedroom|explicit|on|1.0,  current_AC_bedroom|explicit|off|0.77,  
+Implicit :current_xbox_livingroom|implicit|off|0.72,  current_lamp_livingroom|implicit|off|0.78,  light_hallway|implicit|on|0.78,  light_livingroom|implicit|on|0.78,  light_kitchen|implicit|off|0.78,  light_bedroom|implicit|off|0.78,  
+
+

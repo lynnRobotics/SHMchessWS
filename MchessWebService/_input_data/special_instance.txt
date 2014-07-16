@@ -1,0 +1,25 @@
+on off on on off off standby off standby standby off off standby standby standby standby off off off #GoOut GoOut 
+ESS0: current_xbox_livingroom_off current_AC_livingroom_standby light_hallway_off current_PC_bedroom_standby current_AC_bedroom_off current_monitor_bedroom_standby light_bedroom_off 
+ESS1: 
+ESS2: current_TV_livingroom_on current_fan_livingroom_on current_lamp_livingroom_on light_livingroom_on current_microwave_kitchen_on light_kitchen_on current_lamp_bedroom_on 
+all infer result:g9-1 g10-1 
+all selected result:g9-1 
+Noise: light_livingroom light_bedroom light_kitchen 
+Ess0 Close: current_AC_livingroom (standby) current_PC_bedroom (standby) current_AC_bedroom (standby) current_monitor_bedroom (standby) light_bedroom (on) 
+ESS1 Close:
+Not close:light_livingroom light_kitchen 
+Over close:
+feedback  :false
+
+off off on on off off standby off standby standby off off standby standby on standby off off off #GoOut GoOut 
+ESS0: current_xbox_livingroom_off current_AC_livingroom_standby light_hallway_off current_PC_bedroom_standby current_AC_bedroom_off current_monitor_bedroom_standby light_bedroom_off 
+ESS1: 
+ESS2: current_TV_livingroom_on current_fan_livingroom_on current_lamp_livingroom_on light_livingroom_on current_microwave_kitchen_on light_kitchen_on current_lamp_bedroom_on 
+all infer result:g9-1 g10-1 
+all selected result:g9-1 
+Noise: light_bedroom light_kitchen current_AC_livingroom 
+Ess0 Close: current_AC_livingroom (on) current_PC_bedroom (standby) current_AC_bedroom (standby) current_monitor_bedroom (standby) light_bedroom (on) 
+ESS1 Close:
+Not close:light_kitchen 
+Over close:
+feedback  :true

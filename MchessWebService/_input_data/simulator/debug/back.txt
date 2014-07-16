@@ -1,0 +1,812 @@
+row Num: 1
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:Cooking,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: 
+
+
+row Num: 4
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:BrushingTooth,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: 
+
+
+row Num: 6
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off:   |Noise: 
+
+
+row Num: 9
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: 
+
+
+row Num: 140
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off:   |Noise: 
+
+
+row Num: 141
+raw GA infer:g1-16,g1-17,g2-15,g2-16,g3-14,g3-15,g4-13,g4-14,g5-12,g5-13,
+raw single infer:TakingBath,Laundering,
+Infer: g1-16,g1-17,|TakingBath,Laundering,| truth:Laundering,TakingBath,
+turn off:   |Noise: 
+
+
+row Num: 144
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,ReadingBook,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: 
+
+
+row Num: 149
+raw GA infer:g1-5,g2-1,g3-2,g4-1,g5-2,
+raw single infer:ListeningMusic,Studying,UsingPC,
+Infer: g1-5,|UsingPC,| truth:UsingPC,
+turn off:   |Noise: 
+
+
+row Num: 185
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:Cooking,ReadingBook,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: 
+
+
+row Num: 187
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 193
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 289
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:Cooking,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 291
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:BrushingTooth,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 293
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 295
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 402
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off: current_TV_livingroom,  |Noise: current_TV_livingroom,
+
+
+row Num: 403  
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:WatchingTV,Cooking,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 412
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 420
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:WatchingTV,UsingPC,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 421
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 424
+raw GA infer:g1-13,g1-16,g2-13,g2-15,g3-12,g3-14,g4-12,g4-13,g5-11,g5-12,
+raw single infer:TakingBath,WashingDishes,
+Infer: g1-13,g1-16,|TakingBath,WashingDishes,| truth:WashingDishes,TakingBath,
+turn off:   |Noise: light_hallway,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 430
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,WatchingTV,
+turn off:   |Noise: light_hallway,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 432
+raw GA infer:g1-11,g1-16,g2-11,g2-15,g3-10,g3-14,g4-10,g4-13,g5-9,g5-12,
+raw single infer:Cooking,TakingBath,
+Infer: g1-11,g1-16,|Cooking,TakingBath,| truth:TakingBath,Cooking,
+turn off: light_livingroom,current_TV_livingroom,  |Noise: light_hallway,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 433
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,WatchingTV,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 436
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,WatchingTV,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 450
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 456
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 577
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:BrushingTooth,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 579
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:Cooking,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 581
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 583
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 691
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off:   |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 692
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:WatchingTV,Cooking,
+turn off:   |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 701
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off:   |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 713
+raw GA infer:g1-13,g1-16,g2-13,g2-15,g3-12,g3-14,g4-12,g4-13,g5-11,g5-12,
+raw single infer:TakingBath,WashingDishes,
+Infer: g1-13,g1-16,|TakingBath,WashingDishes,| truth:WashingDishes,TakingBath,
+turn off:   |Noise: light_hallway,light_kitchen,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 719
+raw GA infer:g1-5,g1-16,g2-1,g2-15,g3-2,g3-14,g4-1,g4-13,g5-2,g5-12,
+raw single infer:ListeningMusic,TakingBath,Studying,UsingPC,
+Infer: g1-5,g1-16,|TakingBath,UsingPC,| truth:TakingBath,UsingPC,
+turn off:   |Noise: light_hallway,light_kitchen,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 725
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_bathroom,current_fan_bedroom,  |Noise: light_hallway,light_kitchen,light_livingroom,light_bathroom,current_fan_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 745
+raw GA infer:g4-1,g5-2,
+raw single infer:ListeningMusic,Studying,UsingPC,
+Infer: g4-1,|ListeningMusic,Studying,UsingPC,| truth:Studying,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bathroom,  |Noise: light_hallway,light_kitchen,light_livingroom,light_bathroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 757
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off: light_bathroom,  |Noise: light_hallway,light_kitchen,light_livingroom,light_bathroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 763
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off: light_bathroom,  |Noise: light_hallway,light_kitchen,light_livingroom,light_bathroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 865
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:Cooking,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_kitchen,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 868
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-1,g5-9,
+raw single infer:BrushingTooth,Cooking,UsingRestroom,
+Infer: g1-11,g5-1,|BrushingTooth,Cooking,UsingRestroom,| truth:BrushingTooth,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 870
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 873
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1004
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1005
+raw GA infer:g1-16,g1-17,g2-15,g2-16,g3-14,g3-15,g4-13,g4-14,g5-12,g5-13,
+raw single infer:TakingBath,Laundering,
+Infer: g1-16,g1-17,|TakingBath,Laundering,| truth:Laundering,TakingBath,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1008
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,ReadingBook,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1014
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,ReadingBook,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1027
+raw GA infer:g1-5,g1-11,g2-1,g2-11,g3-2,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:UsingPC,Cooking,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1028
+raw GA infer:g1-5,g2-4,g3-4,g4-1,g5-2,
+raw single infer:ListeningMusic,Studying,Chatting,UsingPC,
+Infer: g1-5,|UsingPC,| truth:Chatting,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_livingroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1034
+raw GA infer:g1-8,g2-1,g3-2,g4-7,g5-8,
+raw single infer:ListeningMusic,Sleeping,UsingPC,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off: light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1153
+raw GA infer:g1-5,g1-11,g2-11,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:BrushingTooth,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bathroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1155
+raw GA infer:g1-5,g1-11,g2-11,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:Cooking,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bathroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1157
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off: light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1159
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1315
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off: light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1316
+raw GA infer:g1-2,g2-3,g3-3,g4-3,g5-4,
+raw single infer:PlayingKinect,
+Infer: g1-2,|PlayingKinect,| truth:PlayingKinect,
+turn off: light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_livingroom,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1321
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:WatchingTV,UsingPC,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1351
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1363
+raw GA infer:g1-11,g1-16,g2-11,g2-15,g3-10,g3-14,g4-10,g4-13,g5-9,g5-12,
+raw single infer:Cooking,TakingBath,
+Infer: g1-11,g1-16,|Cooking,TakingBath,| truth:Cooking,TakingBath,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1365
+raw GA infer:g1-11,g1-16,g2-11,g2-15,g3-10,g3-14,g4-10,g4-13,g5-9,g5-12,
+raw single infer:Cooking,TakingBath,
+Infer: g1-11,g1-16,|Cooking,TakingBath,| truth:TakingBath,Cooking,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1368
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1453
+raw GA infer:g1-1,g1-6,g2-2,g2-6,g3-1,g3-5,g4-2,g4-5,g5-3,g5-6,
+raw single infer:WatchingTV,ComeBack,ReadingBook,
+Infer: g1-1,g1-6,|WatchingTV,ComeBack,| truth:ComeBack,WatchingTV,
+turn off:   |Noise: light_hallway,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1454
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:Cooking,WatchingTV,
+turn off:   |Noise: light_hallway,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1455
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,WatchingTV,
+turn off: light_kitchen,  |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1466
+raw GA infer:g1-5,g1-16,g2-1,g2-15,g3-2,g3-14,g4-1,g4-13,g5-2,g5-12,
+raw single infer:ListeningMusic,TakingBath,Studying,UsingPC,
+Infer: g1-5,g1-16,|TakingBath,UsingPC,| truth:UsingPC,TakingBath,
+turn off: light_kitchen,  |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1468
+raw GA infer:g1-5,g1-17,g2-1,g2-16,g3-2,g3-15,g4-1,g4-14,g5-2,g5-13,
+raw single infer:ListeningMusic,Studying,Laundering,UsingPC,
+Infer: g1-5,g1-17,|Laundering,UsingPC,| truth:UsingPC,Laundering,
+turn off: light_kitchen,  |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1472
+raw GA infer:g1-16,g1-17,g2-15,g2-16,g3-14,g3-15,g4-13,g4-14,g5-12,g5-13,
+raw single infer:TakingBath,Laundering,
+Infer: g1-16,g1-17,|TakingBath,Laundering,| truth:TakingBath,Laundering,
+turn off: light_bedroom,light_kitchen,current_PC_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_kitchen,light_bedroom,current_PC_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1474
+raw GA infer:g1-5,g1-17,g2-1,g2-16,g3-2,g3-15,g4-1,g4-14,g5-2,g5-13,
+raw single infer:ListeningMusic,Studying,Laundering,UsingPC,
+Infer: g1-5,g1-17,|Laundering,UsingPC,| truth:UsingPC,Laundering,
+turn off: light_kitchen,  |Noise: light_hallway,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1479
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_kitchen,light_balcony,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_kitchen,current_fan_bedroom,current_speaker_bedroom,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1491
+raw GA infer:g1-5,g1-11,g2-1,g2-11,g3-2,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:UsingPC,Cooking,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1493
+raw GA infer:g1-11,g2-11,g3-10,g4-10,g5-9,
+raw single infer:Cooking,
+Infer: g1-11,|Cooking,| truth:Cooking,
+turn off: light_bedroom,light_balcony,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,  |Noise: light_hallway,light_balcony,light_bedroom,current_PC_bedroom,current_monitor_bedroom,current_fan_bedroom,current_speaker_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1494
+raw GA infer:g1-5,g1-11,g2-1,g2-11,g3-2,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:UsingPC,Cooking,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1497
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off: light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1501
+raw GA infer:g1-3,g1-11,g2-4,g2-11,g3-4,g3-10,g4-4,g4-10,g5-5,g5-9,
+raw single infer:Cooking,Chatting,
+Infer: g1-3,g1-11,|Cooking,Chatting,| truth:Chatting,Cooking,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1502
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1510
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1516
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1517
+raw GA infer:g1-2,g1-11,g2-3,g2-11,g3-3,g3-10,g4-3,g4-10,g5-4,g5-9,
+raw single infer:PlayingKinect,Cooking,
+Infer: g1-2,g1-11,|PlayingKinect,Cooking,| truth:Cooking,PlayingKinect,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1518
+raw GA infer:g1-2,g1-5,g2-1,g2-3,g3-2,g3-3,g4-1,g4-3,g5-2,g5-4,
+raw single infer:PlayingKinect,ListeningMusic,Studying,UsingPC,
+Infer: g1-2,g1-5,|PlayingKinect,UsingPC,| truth:UsingPC,PlayingKinect,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1529
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1537
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:WatchingTV,Cooking,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1538
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1547
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,WatchingTV,
+turn off: light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1549
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1554
+raw GA infer:g1-5,g1-11,g2-1,g2-11,g3-2,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:UsingPC,Cooking,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1560
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1602
+raw GA infer:g1-5,g1-16,g2-1,g2-15,g3-2,g3-14,g4-1,g4-13,g5-2,g5-12,
+raw single infer:ListeningMusic,TakingBath,Studying,UsingPC,
+Infer: g1-5,g1-16,|TakingBath,UsingPC,| truth:TakingBath,UsingPC,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1608
+raw GA infer:g1-5,g1-16,g2-1,g2-15,g3-2,g3-14,g4-1,g4-13,g5-2,g5-12,
+raw single infer:ListeningMusic,TakingBath,Studying,UsingPC,
+Infer: g1-5,g1-16,|TakingBath,UsingPC,| truth:UsingPC,TakingBath,
+turn off: light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1614
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1746
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-1,g5-3,
+raw single infer:BrushingTooth,WatchingTV,UsingRestroom,ReadingBook,
+Infer: g1-1,g5-1,|BrushingTooth,WatchingTV,UsingRestroom,| truth:BrushingTooth,WatchingTV,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1748
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-1,g5-3,
+raw single infer:BrushingTooth,WatchingTV,UsingRestroom,ReadingBook,
+Infer: g1-1,g5-1,|BrushingTooth,WatchingTV,UsingRestroom,| truth:WatchingTV,BrushingTooth,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1750
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1788
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1789
+raw GA infer:g1-1,g1-11,g2-2,g2-11,g3-1,g3-10,g4-2,g4-10,g5-3,g5-9,
+raw single infer:WatchingTV,Cooking,ReadingBook,
+Infer: g1-1,g1-11,|WatchingTV,Cooking,| truth:ReadingBook,Cooking,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1796
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_bedroom,light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1800
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,WatchingTV,
+turn off: light_bedroom,light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1810
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_bedroom,light_kitchen,light_balcony,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,light_kitchen,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1815
+raw GA infer:g1-1,g1-2,g2-2,g2-3,g3-1,g3-3,g4-2,g4-3,g5-3,g5-4,
+raw single infer:PlayingKinect,WatchingTV,ReadingBook,
+Infer: g1-1,g1-2,|PlayingKinect,WatchingTV,| truth:WashingDishes,PlayingKinect,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_bedroom,light_kitchen,light_balcony,current_Dishwasher_kitchen,  |Noise: light_hallway,light_balcony,light_livingroom,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1821
+raw GA infer:g1-2,g1-11,g2-3,g2-11,g3-3,g3-10,g4-3,g4-10,g5-4,g5-9,
+raw single infer:PlayingKinect,Cooking,
+Infer: g1-2,g1-11,|PlayingKinect,Cooking,| truth:Cooking,PlayingKinect,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,current_TV_livingroom,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1822
+raw GA infer:g1-2,g2-3,g3-3,g4-3,g5-4,
+raw single infer:PlayingKinect,
+Infer: g1-2,|PlayingKinect,| truth:PlayingKinect,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1828
+raw GA infer:g1-2,g1-11,g2-3,g2-11,g3-3,g3-10,g4-3,g4-10,g5-4,g5-9,
+raw single infer:PlayingKinect,Cooking,
+Infer: g1-2,g1-11,|PlayingKinect,Cooking,| truth:PlayingKinect,Cooking,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_bedroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1829
+raw GA infer:g1-2,g2-3,g3-3,g4-3,g5-4,
+raw single infer:PlayingKinect,
+Infer: g1-2,|PlayingKinect,| truth:PlayingKinect,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1846
+raw GA infer:g1-2,g1-16,g2-3,g2-15,g3-3,g3-14,g4-3,g4-13,g5-4,g5-12,
+raw single infer:PlayingKinect,TakingBath,
+Infer: g1-2,g1-16,|PlayingKinect,TakingBath,| truth:TakingBath,PlayingKinect,
+turn off: light_bedroom,light_balcony,  |Noise: light_hallway,light_balcony,light_bedroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1847
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,Cleaning,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_vacuumCleaner_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1855
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:Sleeping,Cleaning,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_vacuumCleaner_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1859
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,Cleaning,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_vacuumCleaner_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1862
+raw GA infer:g1-5,g1-11,g2-1,g2-11,g3-2,g3-10,g4-1,g4-10,g5-2,g5-9,
+raw single infer:ListeningMusic,Cooking,Studying,UsingPC,
+Infer: g1-5,g1-11,|Cooking,UsingPC,| truth:UsingPC,Cooking,
+turn off: light_livingroom,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1863
+raw GA infer:g1-1,g1-5,g2-1,g2-2,g3-1,g3-2,g4-1,g4-2,g5-2,g5-3,
+raw single infer:ListeningMusic,WatchingTV,Studying,UsingPC,ReadingBook,
+Infer: g1-1,g1-5,|WatchingTV,UsingPC,| truth:UsingPC,Cleaning,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_vacuumCleaner_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1865
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:GoOut,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1889
+raw GA infer:g1-6,g2-6,g3-5,g4-5,g5-6,
+raw single infer:ComeBack,
+Infer: g1-6,|ComeBack,| truth:ComeBack,
+turn off: light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_TV_livingroom,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1890
+raw GA infer:g1-1,g2-2,g3-1,g4-2,g5-3,
+raw single infer:WatchingTV,ReadingBook,
+Infer: g1-1,|WatchingTV,| truth:WatchingTV,
+turn off: light_balcony,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1901
+raw GA infer:g1-1,g1-16,g2-2,g2-15,g3-1,g3-14,g4-2,g4-13,g5-3,g5-12,
+raw single infer:WatchingTV,TakingBath,ReadingBook,
+Infer: g1-1,g1-16,|WatchingTV,TakingBath,| truth:TakingBath,WatchingTV,
+turn off: light_balcony,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1908
+raw GA infer:g1-5,g1-16,g2-1,g2-15,g3-2,g3-14,g4-1,g4-13,g5-2,g5-12,
+raw single infer:ListeningMusic,TakingBath,Studying,UsingPC,
+Infer: g1-5,g1-16,|TakingBath,UsingPC,| truth:ListeningMusic,TakingBath,   xxxxxxxxxxxxxx infer wrong xxxxxxxxxxxxxxxxx
+turn off: light_balcony,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1914
+raw GA infer:g1-3,g2-4,g3-4,g4-4,g5-5,
+raw single infer:Chatting,
+Infer: g1-3,|Chatting,| truth:Chatting,
+turn off: light_balcony,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_kinect_livingroom,current_fan_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+
+row Num: 1925
+raw GA infer:g1-8,g2-8,g3-7,g4-7,g5-8,
+raw single infer:Sleeping,
+Infer: g1-8,|Sleeping,| truth:Sleeping,
+turn off: light_balcony,current_kinect_livingroom,current_fan_livingroom,  |Noise: light_hallway,light_balcony,current_kinect_livingroom,current_fan_livingroom,light_livingroom,   xxxxxxxxxxxxxxxx control wrong xxxxxxxxxxxx
+
+

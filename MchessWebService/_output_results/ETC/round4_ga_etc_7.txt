@@ -1,0 +1,28 @@
+Activity: g7-1
+Location: g7-1
+All_selected_sensors: light_livingroom|off|0.9998482549317147 light_hallway|off|0.9752655538694992 light_bedroom|off|0.9998482549317147 current_lamp_bedroom|on|0.6555909573661053 camera_livingroom|off|0.9998482549317147 
+Explicit :light_hallway|explicit|off|0.98,  light_livingroom|explicit|off|1.0,  current_lamp_bedroom|explicit|on|0.66,  light_bedroom|explicit|off|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|1.0,  current_lamp_livingroom|implicit|off|1.0,  light_kitchen|implicit|off|0.79,  
+
+
+Activity: g7-2
+Location: g7-2
+All_selected_sensors: light_hallway|on|0.9263142775064637 current_lamp_bedroom|off|0.9077983627746661 camera_livingroom|on|0.8895432347026716 
+Explicit :light_hallway|explicit|on|0.93,  current_lamp_bedroom|explicit|off|0.91,  
+Implicit :current_xbox_livingroom|implicit|off|0.71,  current_lamp_livingroom|implicit|off|0.81,  light_livingroom|implicit|on|0.88,  light_kitchen|implicit|off|0.98,  light_bedroom|implicit|off|0.82,  
+
+
+Activity: g7-3
+Location: g7-3
+All_selected_sensors: light_bedroom|on|0.9955357142857143 current_fan_livingroom|standby|0.7777777777777778 current_PC_bedroom|on|0.9911111111111112 current_monitor_bedroom|on|0.9911111111111112 camera_bedroom|on|0.9955357142857143 
+Explicit :current_fan_livingroom|explicit|standby|0.78,  current_PC_bedroom|explicit|on|0.99,  current_monitor_bedroom|explicit|on|0.99,  light_bedroom|explicit|on|1.0,  
+Implicit :current_xbox_livingroom|implicit|off|0.89,  current_lamp_livingroom|implicit|off|1.0,  light_hallway|implicit|off|0.96,  light_livingroom|implicit|off|0.78,  light_kitchen|implicit|off|1.0,  current_lamp_bedroom|implicit|off|0.99,  
+
+
+Activity: g7-4
+Location: g7-4
+All_selected_sensors: current_lamp_bedroom|on|0.9951338199513382 current_AC_bedroom|off|0.7615571776155717 
+Explicit :current_lamp_bedroom|explicit|on|1.0,  current_AC_bedroom|explicit|off|0.76,  
+Implicit :current_xbox_livingroom|implicit|off|0.75,  current_lamp_livingroom|implicit|off|0.76,  light_hallway|implicit|on|0.76,  light_livingroom|implicit|on|0.76,  light_kitchen|implicit|off|0.76,  light_bedroom|implicit|off|0.76,  
+
+

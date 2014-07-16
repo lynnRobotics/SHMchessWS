@@ -1,0 +1,54 @@
+Activity: g9-1
+Location: g9-1
+Explicit :current_TV_livingroom||on|0.99,  current_vacuumCleaner_livingroom||on|0.99,  light_livingroom||on|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|0.77,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|0.77,  current_fanHeater_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-2
+Location: g9-2
+Explicit :light_hallway||on|0.94,  
+Implicit :current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-3
+Location: g9-3
+Explicit :current_fridge_kitchen||on|1.0,  current_riceCooker_kitchen||on|1.0,  current_microwave_kitchen||on|1.0,  current_Dishwasher_kitchen||on|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  light_kitchen|implicit|on|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-4
+Location: g9-4
+Explicit :current_lamp_bedroom||on|1.0,  current_PC_bedroom||on|0.72,  current_monitor_bedroom||on|1.0,  current_speaker_bedroom||on|1.0,  light_bedroom||on|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_fan_bedroom|implicit|on|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-5
+Location: g9-5
+Explicit :current_exhaustFan_bathroom||on|0.99,  
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  light_bathroom|implicit|on|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-6
+Location: g9-6
+Explicit :current_TV_livingroom||on|1.0,  current_kinect_livingroom||on|1.0,  current_fan_livingroom||on|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_vacuumCleaner_livingroom|implicit|off|0.98,  current_AC_livingroom|implicit|on|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|on|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-7
+Location: g9-7
+Explicit :
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-8
+Location: g9-8
+Explicit :current_waterHeater_balcony||on|0.99,  
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  light_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|on|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_washMachine_balcony|implicit|off|1.0,  light_balcony|implicit|off|1.0,  
+
+
+Activity: g9-9
+Location: g9-9
+Explicit :light_livingroom||off|1.0,  current_washMachine_balcony||on|0.99,  light_balcony||on|1.0,  
+Implicit :light_hallway|implicit|off|1.0,  current_TV_livingroom|implicit|standby|1.0,  current_vacuumCleaner_livingroom|implicit|off|1.0,  current_kinect_livingroom|implicit|standby|1.0,  current_AC_livingroom|implicit|on|1.0,  current_fan_livingroom|implicit|off|1.0,  current_fanHeater_livingroom|implicit|off|1.0,  current_lamp_bedroom|implicit|off|1.0,  current_PC_bedroom|implicit|standby|1.0,  current_monitor_bedroom|implicit|standby|1.0,  current_fan_bedroom|implicit|off|1.0,  current_speaker_bedroom|implicit|off|1.0,  light_bedroom|implicit|off|1.0,  current_exhaustFan_bathroom|implicit|off|1.0,  light_bathroom|implicit|off|1.0,  current_fridge_kitchen|implicit|standby|1.0,  current_riceCooker_kitchen|implicit|standby|1.0,  current_microwave_kitchen|implicit|standby|1.0,  current_Dishwasher_kitchen|implicit|off|1.0,  light_kitchen|implicit|off|1.0,  current_waterHeater_balcony|implicit|standby|1.0,  
+
+

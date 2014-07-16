@@ -1,0 +1,25 @@
+total time: 10220.0
+serving time withoutGA: 9915.0
+serving time withGA: 10135.0
+
+raw avg thermal :1.4082443163678464
+avg thermal :1.2275763361798215
+raw avg visual :1.07909604519774
+avg visual :0.8691148775894539
+
+thermal type save : 22.707849999999993
+visual type  save : 4.2663499999999965
+ap type save : 19.723458333333323
+
+thermal agent save : 21.292975
+visual agent  save : -0.27894166666666664
+ap agent save : 25.683625000000006
+
+noise consumption : 18.324716666666664
+location based noise save:5.550875000000007
+ap agent right save from noise : 0.2372333333333323
+
+raw total consumption : 150.0214833333333
+location based consumption:124.71552499999999
+mchess total consumption : 103.32382500000001
+

@@ -1,0 +1,23 @@
+on on off on off on on on standby on off off standby on on standby on on off #Sleeping WatchingTV
+on on on on off on on on standby on off off standby on on standby on on off #Sleeping WatchingTV
+on on off off off off standby off standby standby off off standby on on standby on off off #PlayingKinect
+on on on on off off standby off standby standby off off standby standby standby standby on off off #PlayingKinect
+off on on on off off standby off standby standby off off standby standby on standby off off off #GoOut GoOut
+on on off on off off standby off standby standby off off standby on on standby off off off #GoOut GoOut
+on off off on off off standby off standby standby off off standby on standby standby off off off #GoOut GoOut
+on off on off off off on off standby standby off off standby standby on standby off off off #GoOut GoOut
+off on on off off off on off standby standby off off standby on on standby off off off #GoOut GoOut
+on on on on off on on off standby standby off off standby on standby standby on off off #Chatting Chatting
+on on on on off on on off standby standby off off standby on standby standby on off off #Chatting Chatting
+on on on on off on on off standby standby off off standby standby standby standby on off off #Chatting Chatting
+on on off on off off on off standby standby off off standby on on standby on off off #Chatting Chatting
+on on on off off on on off standby standby off off standby standby standby standby on off off #Chatting Chatting 
+on on on on off on standby off standby on on off standby standby on standby on off off #WatchingTV Reading
+on on on off off off on off standby standby on off standby on standby standby on off off #Reading
+on on off off off on on off standby on off off standby on standby standby on off off #WatchingTV
+on on on on off off on off standby on off off standby on on standby on off off #WatchingTV
+on on off on off on on off standby on off off standby standby standby standby on off off #WatchingTV
+off on on on off off standby on standby standby off off standby on on standby off on off #AllSleeping
+on on on on off off standby on standby standby off off standby on on standby off on off #AllSleeping
+on on off on off off on on standby standby off off standby on on standby off on off #AllSleeping
+off off off off off off on on standby standby off off standby on standby standby off on off #AllSleeping

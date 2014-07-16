@@ -1,0 +1,7 @@
+Activity: g10-1
+Location: g10-1
+All_selected_sensors: light_livingroom|off|0.560190603577997 
+Explicit :light_livingroom|explicit|off|0.56,  
+Implicit :current_TV_livingroom|implicit|standby|0.71,  current_xbox_livingroom|implicit|off|0.86,  current_fan_livingroom|implicit|standby|0.91,  current_AC_livingroom|implicit|standby|0.99,  current_lamp_livingroom|implicit|off|0.9,  current_microwave_kitchen|implicit|standby|0.91,  light_kitchen|implicit|off|0.91,  current_PC_bedroom|implicit|standby|0.88,  current_AC_bedroom|implicit|standby|0.91,  current_monitor_bedroom|implicit|standby|0.88,  light_bedroom|implicit|off|0.81,  
+
+

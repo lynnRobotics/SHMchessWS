@@ -1,0 +1,1595 @@
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off off off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby off on off on standby standby off standby off off on off on off #g3-8 g3-4 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off on off off off standby off standby on off off on standby standby off standby off off on off on off #g3-8 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off off off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off on off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off off standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby off on off standby off standby off standby on off on on off off #g3-4 g3-2 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off on standby off standby on on off standby standby on off standby off off on off off off #g3-1 g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off off on off off off standby off standby off off off on standby standby off standby on off off on on off #g3-8 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off on off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off on off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off on on off on on off off standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off on standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off off standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on off standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off on off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on off standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+on off off off off off off on off on on off on standby standby standby off standby off off on on off off #g3-5 g3-1 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off on off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off off standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off off off off on standby off on off off off standby standby standby off standby off off off on off off #g3-5 
+off off off on off off off standby off standby off off off standby standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+off off off on off off off standby off standby off off off on standby standby off standby off off off off on off #g3-8 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off on off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off on off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off on standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off off off standby off standby off off off standby standby standby off standby off off off off off off #g3-7 g3-7 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+off off off off off on off standby off standby off off off standby standby standby off standby off off off off off off #g3-6 g3-6 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off on on off standby off off off standby standby standby off standby off off on off off off #g3-3 g3-3 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on off on standby off standby off standby on off on on off off #g3-2 g3-1 
+on off off off off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off on standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off on off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off off standby off standby on on on standby standby standby off standby off off on off off off #g3-4 g3-1 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off on off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby off standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off on standby off standby off on off standby standby standby off standby off off on off off off #g3-4 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off on standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+on off off off off off off standby off standby on off off standby standby standby off standby off off on off off off #g3-1 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+off off off off off off off standby off standby off off off standby standby standby off standby on off off on off off #g3-2 g3-2 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+on off off off off on on standby off standby on off off standby standby standby off standby off off on off off off #g3-6 g3-1 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off on off on off standby off standby off off off on standby standby off standby off off off off on off #g3-6 g3-8 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby off on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off off off off standby off standby off off off standby standby standby on on off off off off off on #g3-9 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off off off on off off standby off standby off off off standby standby standby on standby off off off off off on #g3-10 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off on off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 
+off off off off off off off standby off on off off off standby standby standby off standby on off off on off off #g3-5 g3-2 

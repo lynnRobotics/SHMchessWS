@@ -1,0 +1,2036 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+
+
+
+
+
+
+
+
+
+
+
+
+light_livingroom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current_PC_bedroom 
+current_PC_bedroom 
+
+
+
+
+
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+
+
+light_bedroom current_PC_bedroom current_monitor_bedroom current_fan_bedroom current_speaker_bedroom 
+
+
+
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+light_kitchen 
+
+
+
+
+
+
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_livingroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+light_bedroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_TV_livingroom current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 
+current_kinect_livingroom current_fan_livingroom current_fan_bedroom current_speaker_bedroom 

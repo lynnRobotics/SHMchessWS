@@ -1,0 +1,2 @@
+light_livingroom light_bedroom light_kitchen
+light_bedroom light_kitchen current_AC_livingroom

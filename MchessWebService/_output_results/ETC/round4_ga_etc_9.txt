@@ -1,0 +1,14 @@
+Activity: g9-1
+Location: g9-1
+All_selected_sensors: light_livingroom|off|0.5340612553220712 
+Explicit :light_livingroom|explicit|off|0.53,  
+Implicit :current_xbox_livingroom|implicit|off|0.85,  current_lamp_livingroom|implicit|off|0.91,  light_kitchen|implicit|off|0.92,  light_bedroom|implicit|off|0.79,  
+
+
+Activity: g9-2
+Location: g9-2
+All_selected_sensors: current_lamp_bedroom|on|0.9951338199513382 current_microwave_kitchen|standby|0.7615571776155717 current_AC_bedroom|off|0.7615571776155717 
+Explicit :current_microwave_kitchen|explicit|standby|0.76,  current_lamp_bedroom|explicit|on|1.0,  current_AC_bedroom|explicit|off|0.76,  
+Implicit :current_xbox_livingroom|implicit|off|0.73,  current_lamp_livingroom|implicit|off|0.76,  light_hallway|implicit|on|0.76,  light_livingroom|implicit|on|0.76,  light_kitchen|implicit|off|0.76,  light_bedroom|implicit|off|0.76,  
+
+
